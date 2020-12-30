@@ -22,3 +22,10 @@ If you use this tool in your research, please cite the following paper.
 Diomidis Spinellis. [Tool writing: A forgotten art?](http://www.spinellis.gr/pubs/jrnl/2005-IEEESW-TotT/html/v22n4.html) _IEEE Software_, 22(4):9–11, July/August 2005. [doi:10.1109/MS.2005.111](http://dx.doi.org/10.1109/MS.2005.111).
 
 Visit the project's [home page](http://www.spinellis.gr/sw/ckjm/) for more information.
+
+The software can be build using Ant or Maven.
+
+Complete documentation, in HTML format, is in the doc directory.
+To print the documentation as a single document, open the
+file indexw.html, to browse it, open the file index.html.
+
